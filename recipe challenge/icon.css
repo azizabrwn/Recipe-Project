@@ -1,0 +1,178 @@
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0 auto;
+    padding:0;
+    color:darkslategrey;
+    background-color: oldlace;
+    font-size: 20px;
+  }
+
+  .container{
+    width:90%;
+    margin:auto;
+    overflow:hidden;
+  }
+
+
+  h1 {
+    text-transform: uppercase;
+    font-family: 'Slabo 27px', serif;
+  }
+
+  header .intro{
+      float:right;
+      width:50%;
+      padding-right:10%;
+    
+  }
+  .firstimg{
+    padding:0 0 0 0;
+    border: darkslategrey solid ;
+    border-radius: 10px;
+    border-radius:10%;
+  }
+  aside table{
+    width:100%;
+    float:right;
+    padding:0px 10% 0 0 ;
+    margin:auto;
+  }
+
+  .tabel-border{
+    border: 1px solid darkslategray;
+    border-collapse: collapse;
+    border-spacing:0;
+    width:100%;
+    margin:30px 0 30px 0;
+  }
+
+   th{
+     border:1px solid darkslategrey;
+     height:50px;
+    }
+
+   td{
+     border: 1px solid darkslategrey;
+     text-align:center;
+    }
+
+    .joined{
+      display:inline-block;
+      padding-top: 30px;
+    }
+    .method{
+      float:right;
+      width:50%;
+      padding: 5px 11% 0 0;
+      font-size:20px;
+      line-height: 35px;
+    }
+    
+     .ingredients{
+       float:left;
+       margin: 10px 0 0px 10%;
+    }
+     .scnd-img{
+      margin:5% 0 0 2%;
+      border:darkolivegreen solid ;
+      border-radius: 10px;
+      border-radius:10%;
+     }
+
+     .last-img2{
+     width:30%;
+     height:30%;
+     margin: 0 0 30%;
+     border: darkolivegreen solid ;
+     border-radius: 10px;
+     border-radius:10%;
+    }
+
+    .figcap{
+      padding: 0 0 0 10%;
+    }
+    figure{
+      padding:0px 0 0 20px;
+    }
+    #header2{
+      padding:0 0 0 30px;
+    }
+    li {
+      margin:0 0 10px 0;
+      list-style-type: none;  
+      padding: 10px;
+      border-bottom: 1px solid #dddddd;
+    }
+     .list{
+      font-weight:bold;
+      font-style: italic;
+      list-style-type: square;
+    }
+    .bullets :hover{
+      background-color: antiquewhite;
+      list-style-type: square;
+
+
+    }
+    .hr_{
+      width:80%;
+    }
+
+    .footer {
+      margin: 0 auto;
+      width: 40%;
+      text-align: center;
+    }
+
+    .summary{
+      display:inline-block;
+      margin: 60px 0 40px 0;
+      text-align: center;
+      width:80%; 
+
+     }
+     .about-me {
+       float:right; 
+       width:40%;
+       padding: 20px 20px 0 0; 
+       margin: 20px 0 0 0;
+       background-color:antiquewhite;
+     }
+     .picture {
+       display: inline-block;
+     }
+     .edit {
+       border:solid 1px;
+       border-radius:3%;
+       border-radius:3px;
+       margin: 20px 0 0 200px;
+       height:40%;
+     }
+
+  
+  
+   
+
+   
+  
+    
+
+  
+   
+   
+  
+   
+
+
+  
+  
+  
